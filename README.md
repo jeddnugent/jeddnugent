@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jeddnuget
+- 👋 Hi, I’m @jeddnugent
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently studying Computer Science
-- 📫 How to reach me jeddnugget@gmail.com
+- 📫 How to reach me jeddnugent@gmail.com
