@@ -1,6 +1,8 @@
 # 👋 Hi, my name is Jedd Nugent
 ## 👀 I am a Software developer with 2 years of experience in Mobile app development looking for full time software development roles
-##### 🌱 Included in the Repo you will find my university projects, these included:
+
+🌱 Included in the Repo you will find my university projects, these included:
+
 ##### My Final year capstone project the "Ouch Button" 
 The ouch button was a combination of an Arduino and Web-based project which partnered with Scope Australia 
 looked to create a simple button physical interface that allowed non-verbal wheelchair users to 
