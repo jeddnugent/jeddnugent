@@ -1,4 +1,5 @@
 # 👋 Hi, my name is Jedd Nugent
+##### 📫 jeddnugent@gmail.com [![Linkedin](https://i.sstatic.net/gVE0j.png) Jedd Nugent](https://www.linkedin.com/in/jedd-nugent/)
 ## 👀 I am a Software developer with 2 years of experience in Mobile app development looking for full time software development roles
 
 🌱 Included in the Repo you will find my university projects, these included:
@@ -16,6 +17,3 @@ the wheelchair configuration and experience.
 - PHP-SeRPS Project, 
 	- Making a software solution for Peoples Health Pharmacy to improve their databasing efficiency
 
-
-##### 📫 jeddnugent@gmail.com
-##### [![Linkedin](https://i.sstatic.net/gVE0j.png) Jedd Nugent](https://www.linkedin.com/in/jedd-nugent/)
