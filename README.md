@@ -18,3 +18,4 @@ the wheelchair configuration and experience.
 
 
 ##### 📫 jeddnugent@gmail.com
+##### LinkedIn: https://www.linkedin.com/in/jedd-nugent/
