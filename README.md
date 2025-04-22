@@ -2,14 +2,14 @@
 ##### 📫 jeddnugent@gmail.com &nbsp;[![Linkedin](https://i.sstatic.net/gVE0j.png) Jedd Nugent](https://www.linkedin.com/in/jedd-nugent/)
 ## 👀 I am a Software developer with 2 years of experience in Mobile app development looking for full time software development roles
 
-### [React Projects](https://github.com/jeddnugent/jeddnugent/tree/main/React%20Projects)
+### React Projects
 
-##### [Small React Projects](https://github.com/jeddnugent/jeddnugent/tree/main/React%20Projects/keep_clone)
+##### [Small React Projects](https://github.com/jeddnugent/React-apps)
 - Stripped back Google Keep clone
 
-### University Projects
+### [University Projects](https://github.com/jeddnugent/University-Projects)
 
-##### [My Final year Capstone project](https://github.com/jeddnugent/jeddnugent/tree/main/University%20Projects/Capstone%20Project/ouchButton_v2/ouchButton_v2_personal)
+##### [My Final year Capstone project](https://github.com/jeddnugent/University-Projects/tree/main/Capstone%20Project/ouchButton_v2/ouchButton_v2_personal)
 The ouch button was a combination of an Arduino and Web-based project which partnered with Scope Australia 
 looked to create a simple button physical interface that allowed non-verbal wheelchair users to 
 report everyday pain as it happened and allow health professionals access to this data to improve 
