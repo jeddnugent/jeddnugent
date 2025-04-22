@@ -2,8 +2,6 @@
 ##### 📫 jeddnugent@gmail.com &nbsp;[![Linkedin](https://i.sstatic.net/gVE0j.png) Jedd Nugent](https://www.linkedin.com/in/jedd-nugent/)
 ## 👀 I am a Software developer with 2 years of experience in Mobile app development looking for full time software development roles
 
-🌱 Included in the Repo you will find my university projects, these included:
-
 ### [React Projects](https://github.com/jeddnugent/jeddnugent/tree/main/React%20Projects)
 
 ##### [Small React Projects](https://github.com/jeddnugent/jeddnugent/tree/main/React%20Projects/keep_clone)
