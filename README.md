@@ -4,14 +4,14 @@
 
 🌱 Included in the Repo you will find my university projects, these included:
 
-### React Projects
+### [React Projects](https://github.com/jeddnugent/jeddnugent/tree/main/React%20Projects)
 
-##### Small React Projects
+##### [Small React Projects](https://github.com/jeddnugent/jeddnugent/tree/main/React%20Projects/keep_clone)
 - Stripped back Google Keep clone
 
 ### University Projects
 
-##### My Final year Capstone project 
+##### [My Final year Capstone project](https://github.com/jeddnugent/jeddnugent/tree/main/University%20Projects/Capstone%20Project/ouchButton_v2/ouchButton_v2_personal)
 The ouch button was a combination of an Arduino and Web-based project which partnered with Scope Australia 
 looked to create a simple button physical interface that allowed non-verbal wheelchair users to 
 report everyday pain as it happened and allow health professionals access to this data to improve 
