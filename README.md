@@ -22,7 +22,7 @@ This information allows practitioners to best help their journies through hypnot
 
 ### [University Projects](https://github.com/jeddnugent/University-Projects)
 ##### [My Final year Capstone project](https://github.com/jeddnugent/University-Projects/tree/main/Capstone%20Project/ouchButton_v2/ouchButton_v2_personal)
-The ouch button was a combination of an Arduino and Web-based project which partnered with Scope Australia to build a working prototype that can help us improve the arduous wheelchair prescription process. 
+The Ouch Button was a combination of an Arduino and Web-based project which partnered with Scope Australia to build a working prototype that can help us improve the arduous wheelchair prescription process. 
 When a wheelchair user experiences pain, they can press The Ouch Button, which captures the time and GPS location, making it easier for therapists to identify situations that are causing pain. 
 All of this data could then be visualised on a website while maintaining strict data privacy. 
 
