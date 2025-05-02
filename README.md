@@ -2,6 +2,20 @@
 ##### 📫 jeddnugent@gmail.com &nbsp;[![Linkedin](https://i.sstatic.net/gVE0j.png) Jedd Nugent](https://www.linkedin.com/in/jedd-nugent/)
 ## 👀 I am a Software developer with 2 years of experience in Mobile app development looking for full time software development roles
 ### React Projects
+
+### [SMI Food Journal](https://github.com/jeddnugent/SMI-Food-Journal)
+
+SMI Food Journal is a full stack project created for [Successful Minds Institute](https://successfulminds.com.au). 
+The purpose of the journal is to allow clients of SMI to track each meal they eat over the course of the week where they will
+answer a series of prompts regarding their mood and the enviroment around the meal that inform the practitioners on how to best help
+their growth in a holistic sense.
+
+##### Tech Stack
+React (TypeScript) Web App frontend
+Express.js Backend API Client
+PostgreSQL Database backend
+
+
 ##### [Small React Projects](https://github.com/jeddnugent/React-apps)
 - Stripped back Google Keep clone
 
