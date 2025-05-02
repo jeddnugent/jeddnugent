@@ -22,10 +22,10 @@ This information allows practitioners to best help their journies through hypnot
 
 ### [University Projects](https://github.com/jeddnugent/University-Projects)
 ##### [My Final year Capstone project](https://github.com/jeddnugent/University-Projects/tree/main/Capstone%20Project/ouchButton_v2/ouchButton_v2_personal)
-The ouch button was a combination of an Arduino and Web-based project which partnered with Scope Australia. 
-The project looked to create a simple button physical interface that allowed non-verbal wheelchair users to 
-report everyday pain through the single button input as it happened and allow health professionals access to this data to improve 
-the wheelchair configuration and experience.
+The ouch button was a combination of an Arduino and Web-based project which partnered with Scope Australia to build a working prototype that can help us improve the arduous wheelchair prescription process. 
+When a wheelchair user experiences pain, they can press The Ouch Button, which captures the time and GPS location, making it easier for therapists to identify situations that are causing pain. 
+All of this data could then be visualised on a website while maintaining strict data privacy. 
+
 ##### Small Uni Projects
 - OOP proof of concepts in C#,
 - Series of C++ Programs with the most complex one being used to idenity Convex Hulls in a series of Nodes,
