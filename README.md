@@ -22,9 +22,9 @@ This information allows practitioners to best help their journies through hypnot
 
 ### [University Projects](https://github.com/jeddnugent/University-Projects)
 ##### [My Final year Capstone project](https://github.com/jeddnugent/University-Projects/tree/main/Capstone%20Project/ouchButton_v2/ouchButton_v2_personal)
-The ouch button was a combination of an Arduino and Web-based project which partnered with Scope Australia 
-looked to create a simple button physical interface that allowed non-verbal wheelchair users to 
-report everyday pain as it happened and allow health professionals access to this data to improve 
+The ouch button was a combination of an Arduino and Web-based project which partnered with Scope Australia. 
+The project looked to create a simple button physical interface that allowed non-verbal wheelchair users to 
+report everyday pain through the single button input as it happened and allow health professionals access to this data to improve 
 the wheelchair configuration and experience.
 ##### Small Uni Projects
 - OOP proof of concepts in C#,
