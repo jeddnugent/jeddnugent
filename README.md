@@ -14,7 +14,7 @@ This information allows practitioners to best help their journies through hypnot
 ##### Tech Stack
 - React (TypeScript) Web App frontend
 - Express.js Backend API Client
-- PostgreSQL Database backend
+- PostgreSQL Database
 
 
 ##### [Small React Projects](https://github.com/jeddnugent/React-apps)
