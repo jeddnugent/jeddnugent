@@ -10,6 +10,8 @@ The purpose of the journal is to allow clients of SMI to track each meal they ea
 answer a series of prompts regarding their mood and the enviroment around the meal. This will then be accessed by practitioners on a subsequent consultation.
 The information gained by these surveys will be help inform futher advice and treatment from the practitioners regarding the clients weight loss journey.
 
+[Link to Repo](https://github.com/jeddnugent/SMI-Food-Journal)
+
 ##### Tech Stack
 - React (TypeScript) Web App frontend
 - Express.js Backend API Client
@@ -17,9 +19,13 @@ The information gained by these surveys will be help inform futher advice and tr
 
 ### [University Projects](https://github.com/jeddnugent/University-Projects)
 ##### [My Final year Capstone project](https://github.com/jeddnugent/University-Projects/tree/main/Capstone%20Project/ouchButton_v2/ouchButton_v2_personal)
-The Ouch Button was a combination of an Arduino and Web-based project which partnered with Scope Australia to build a working prototype that can help us improve the arduous wheelchair prescription process. 
+The Ouch Button was a combination of an Arduino and Web-based project which partnered with [Scope Australia](https://www.scopeaust.org.au) to build a working prototype that can help us improve the arduous wheelchair prescription process. 
 When a wheelchair user experiences pain, they can press The Ouch Button, which captures the time and GPS location, making it easier for therapists to identify situations that are causing pain. 
 All of this data could then be visualised on a website while maintaining strict data privacy. 
+
+[LinkedIn Post Regarding project](https://www.linkedin.com/posts/brendanparsons_november-16-capstone-expo-2023-with-brendan-ugcPost-7143731657345314816-UL7G?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC-xme0BLYAD4BRCp5yUb8-C_rJv_GXFA40)
+
+[Link to Repo]([https://github.com/jeddnugent/SMI-Food-Journal](https://github.com/jeddnugent/University-Projects/tree/main/Capstone%20Project/ouchButton_v2/ouchButton_v2_personal))
 
 ##### Small Uni Projects
 - OOP proof of concepts in C#,
