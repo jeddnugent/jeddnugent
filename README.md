@@ -25,7 +25,7 @@ All of this data could then be visualised on a website while maintaining strict 
 
 [LinkedIn Post Regarding project](https://www.linkedin.com/posts/brendanparsons_november-16-capstone-expo-2023-with-brendan-ugcPost-7143731657345314816-UL7G?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC-xme0BLYAD4BRCp5yUb8-C_rJv_GXFA40)
 
-[Link to Repo]([https://github.com/jeddnugent/SMI-Food-Journal](https://github.com/jeddnugent/University-Projects/tree/main/Capstone%20Project/ouchButton_v2/ouchButton_v2_personal))
+[Link to Repo](https://github.com/jeddnugent/University-Projects/tree/main/Capstone%20Project/ouchButton_v2/ouchButton_v2_personal)
 
 ##### Small Uni Projects
 - OOP proof of concepts in C#,
