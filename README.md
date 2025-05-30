@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Jedd Nugent
 ##### 📫 jeddnugent@gmail.com &nbsp;[![Linkedin](https://i.sstatic.net/gVE0j.png) Jedd Nugent](https://www.linkedin.com/in/jedd-nugent/)
-## 👀 Software developer with 2 years of experience in Mobile app development looking for full time front-end or full stack roles
+## 👀 Software developer with 2 years of experience in Mobile app development looking for full time front-end or full stack roles in Melbourne, Australia
 ### Full Stack Projects
 
 ### [SMI Food Journal](https://github.com/jeddnugent/SMI-Food-Journal)
