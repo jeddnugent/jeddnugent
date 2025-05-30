@@ -23,7 +23,7 @@ The Ouch Button was a combination of an Arduino and Web-based project which part
 When a wheelchair user experiences pain, they can press The Ouch Button, which captures the time and GPS location, making it easier for therapists to identify situations that are causing pain and better tailor the wheelchair configuration for the users needs. 
 All of this data could then be visualised on a website while maintaining strict data privacy. 
 
-[LinkedIn Post Regarding project](https://www.linkedin.com/posts/brendanparsons_november-16-capstone-expo-2023-with-brendan-ugcPost-7143731657345314816-UL7G?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC-xme0BLYAD4BRCp5yUb8-C_rJv_GXFA40)
+[LinkedIn Post regarding project](https://www.linkedin.com/posts/brendanparsons_november-16-capstone-expo-2023-with-brendan-ugcPost-7143731657345314816-UL7G?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC-xme0BLYAD4BRCp5yUb8-C_rJv_GXFA40)
 
 [Link to Repo](https://github.com/jeddnugent/University-Projects/tree/main/Capstone%20Project/ouchButton_v2/ouchButton_v2_personal)
 
