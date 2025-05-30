@@ -13,8 +13,8 @@ The information gained by these surveys will be help inform futher advice and tr
 [Link to Repo](https://github.com/jeddnugent/SMI-Food-Journal)
 
 ##### Tech Stack
-- React (TypeScript) Web App frontend
-- Express.js Backend API Client
+- React (TypeScript) Web App Front-end
+- Express.js Back-End API Client
 - PostgreSQL Database
 
 ### [University Projects](https://github.com/jeddnugent/University-Projects)
