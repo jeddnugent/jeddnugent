@@ -15,10 +15,6 @@ The information gained by these surveys will be help inform futher advice and tr
 - Express.js Backend API Client
 - PostgreSQL Database
 
-
-##### [Small React Projects](https://github.com/jeddnugent/React-apps)
-- Stripped back Google Keep clone
-
 ### [University Projects](https://github.com/jeddnugent/University-Projects)
 ##### [My Final year Capstone project](https://github.com/jeddnugent/University-Projects/tree/main/Capstone%20Project/ouchButton_v2/ouchButton_v2_personal)
 The Ouch Button was a combination of an Arduino and Web-based project which partnered with Scope Australia to build a working prototype that can help us improve the arduous wheelchair prescription process. 
@@ -32,3 +28,5 @@ All of this data could then be visualised on a website while maintaining strict 
 - PHP-SeRPS Project, 
 	- Making a software solution for Peoples Health Pharmacy to improve their databasing efficiency
 
+##### [Small React Projects](https://github.com/jeddnugent/React-apps)
+- Stripped back Google Keep clone
