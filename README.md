@@ -11,6 +11,7 @@ answer a series of prompts regarding their mood and the enviroment around the me
 The information gained by these surveys will be help inform futher advice and treatment from the practitioners regarding the clients weight loss journey.
 
 [Link to Repo](https://github.com/jeddnugent/SMI-Food-Journal)
+
 [Link to Preview](https://smi-food-journal.vercel.app)
 
 ##### Tech Stack
