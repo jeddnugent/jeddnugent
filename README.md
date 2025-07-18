@@ -1,7 +1,7 @@
 # 👋 Hi, my name is Jedd Nugent
 ##### 📫 jeddnugent@gmail.com &nbsp;[![Linkedin](https://i.sstatic.net/gVE0j.png) Jedd Nugent](https://www.linkedin.com/in/jedd-nugent/)
 ## 👀 Software developer with 2 years of experience in Mobile app development looking for full time front-end or full stack roles in Melbourne, Australia
-### Full Stack Projects
+### React Projects
 
 ### [SMI Food Journal](https://github.com/jeddnugent/SMI-Food-Journal)
 
@@ -15,9 +15,23 @@ The information gained by these surveys will be help inform futher advice and tr
 [Link to Preview](https://smi-food-journal.vercel.app)
 
 ##### Tech Stack
-- React (TypeScript) Web App Front-end
+- React (TypeScript) Web App Front-End
 - Express.js Back-End API Client
 - PostgreSQL Database
+
+---
+
+### [Photography Portfolio Website](https://github.com/jeddnugent/helenyoseph-portfolio)
+
+React website created as a digital portfolio for photographer [Helen Yoseph](https://www.instagram.com/helentigest/)
+
+### **Tech Stack**
+- React (with TypeScript)
+- Vite (Dev tooling)
+- CSS (general styling)
+- [Figma](https://www.figma.com/design/4kjgB15day1ommDZFWB7pk/Helen-Portfolio?node-id=1-2&t=sVo0j1HciWreRefN-1) (Layout and Design)
+
+---
 
 ### [University Projects](https://github.com/jeddnugent/University-Projects)
 ##### [My Final year Capstone project](https://github.com/jeddnugent/University-Projects/tree/main/Capstone%20Project/ouchButton_v2/ouchButton_v2_personal)
