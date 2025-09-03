@@ -23,9 +23,9 @@ The information gained by these surveys will be help inform futher advice and tr
 
 ### [Photography Portfolio Website](https://github.com/jeddnugent/helenyoseph-portfolio)
 
-Currently working with client to create a react website to serve as a digital portfolio for photographer [Helen Yoseph](https://www.instagram.com/helentigest/)
+Single page react website create for concert photographer [Helen Yoseph](https://www.instagram.com/helentigest/). This website is intended to serve as a landing page and portfolio of her work and more dynamically and professionally display her photos in the effort to attract new clients and oppitunities.
 
-[Link to Preview](https://helenyoseph-portfolio.vercel.app)
+[Link to Website](https://helenyoseph-portfolio.vercel.app)
 
 ### **Tech Stack**
 - React (with TypeScript)
