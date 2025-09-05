@@ -23,7 +23,7 @@ The information gained by these surveys will be help inform futher advice and tr
 
 ### [Photography Portfolio Website](https://github.com/jeddnugent/helenyoseph-portfolio)
 
-Single page react website created for concert photographer [Helen Yoseph](https://www.instagram.com/helentigest/). This website is intended to serve as a landing page and portfolio of her work and more dynamically and professionally display her photos in the effort to attract new clients and oppitunities.
+Single page react website created for concert photographer [Helen Yoseph](https://www.instagram.com/helentigest/). This website is intended to serve as a landing page and portfolio of her work and more dynamically and professionally display her photos in the effort to attract new clients and opportunities.
 
 [Link to Website](https://helenyoseph-portfolio.vercel.app)
 
