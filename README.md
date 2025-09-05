@@ -5,7 +5,7 @@
 
 ### [SMI Food Journal](https://github.com/jeddnugent/SMI-Food-Journal)
 
-SMI Food Journal is a full stack project created for [Successful Minds Institute](https://successfulminds.com.au). The purpose of the journal is to allow clients of SMI to track each meal they eat over the course of a week. After each meal they will answer a series of prompts regarding their mood and the environment around the meal. This will then be accessed by practitioners on a subsequent consultation. The information gained by these surveys will be help inform further advice and treatment from the practitioners regarding the clients weight loss journey.
+SMI Food Journal is a full stack project created for [Successful Minds Institute](https://successfulminds.com.au). The purpose of the journal is to allow clients of SMI to track each meal they eat over the course of a week. After each meal they will answer a series of prompts regarding their mood and the environment around the meal. This will then be accessed by practitioners on a subsequent consultation. The information gained by these surveys will help inform further advice and treatment from the practitioners regarding the clients weight loss journey.
 
 [Link to Repo](https://github.com/jeddnugent/SMI-Food-Journal)
 
