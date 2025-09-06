@@ -24,6 +24,8 @@ Single page react website created for concert photographer [Helen Yoseph](https:
 
 [Link to Website](https://helenyoseph-portfolio.vercel.app)
 
+[Link to Repo](https://github.com/jeddnugent/helenyoseph-portfolio)
+
 ### **Tech Stack**
 - React (with TypeScript)
 - Vite (Dev tooling)
