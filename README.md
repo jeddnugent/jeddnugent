@@ -26,11 +26,23 @@ Single page react website created for concert photographer [Helen Yoseph](https:
 
 [Link to Repo](https://github.com/jeddnugent/helenyoseph-portfolio)
 
-### **Tech Stack**
+##### Tech Stack
 - React (with TypeScript)
-- Vite (Dev tooling)
-- CSS (general styling)
+- Cloudinary (Image CDN)
 - [Figma](https://www.figma.com/design/4kjgB15day1ommDZFWB7pk/Helen-Portfolio?node-id=1-2&t=sVo0j1HciWreRefN-1) (Layout and Design)
+
+---
+
+### [Personal Portfolio Website](https://github.com/jeddnugent/personal-portfolio/tree/main)
+
+Single page React website created for myself to have a proper showcase of myself and my work and serve as a landing page beyond just linking my github. 
+
+[Link to Website](https://www.jeddnugent.com)
+
+[Link to Repo](https://github.com/jeddnugent/personal-portfolio/tree/main)
+
+##### Tech Stack
+- React (with TypeScript)
 
 ---
 
