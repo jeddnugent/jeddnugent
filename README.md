@@ -20,7 +20,7 @@ SMI Food Journal is a full stack project created for [Successful Minds Institute
 
 ### [Photography Portfolio Website](https://github.com/jeddnugent/helenyoseph-portfolio)
 
-Single page react website created for concert photographer [Helen Yoseph](https://www.instagram.com/helentigest/). This website is intended to serve as a landing page and portfolio of her work and more dynamically and professionally display her photos in the effort to attract new clients and opportunities.
+Single page react website created for concert photographer [Helen Yoseph](https://www.instagram.com/helentigest/). This website is intended to serve as a landing page and portfolio of her work and more dynamically and professionally display her photos in the effort to attract new clients and opportunities. All images on the site are managed by the client and dynamically inserted via Cloudinary SDK through Axios, ensuring the long term maintainability of the site. 
 
 [Link to Website](https://helenyoseph-portfolio.vercel.app)
 
